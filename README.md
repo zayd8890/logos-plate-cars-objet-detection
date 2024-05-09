@@ -1,2 +1,6 @@
 # logos-plate-cars-objet-detection
-hello world
+this projet realised by:
+El-abbas Oussama
+El-ouaragli Zayd
+Fares Hassan
+Guinga Aly
