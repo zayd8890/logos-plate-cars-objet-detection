@@ -14,7 +14,7 @@ Welcome to our Vehicle Logo and License Plate Detection project!  Our goal is to
 <b>  ●  Advanced Models:</b> We utilize YOLOv8, a state-of-the-art object detection algorithm, to ensure accurate detection results.<br><br>
 <b>  ●  Flexible Input Options:</b> Input data in various formats, including images, videos, or live webcam streams, to suit your requirements.<br><br>
 <b>  ●  Extensive Class Recognition:</b> Explore our app to discover the extensive list of classes our models can identify, ranging from popular vehicle logos to Moroccan license plate specific designs.
-<img src="imgs/classes.jpg" width="80%", alt="Classes"></a>
+<img src="results/logos.jpg" width="80%", alt="Classes"></a>
 
 <h2 id="technologies-used"> 🛠️ Technologies Used</h2>
 <b>  ● Python:</b> We have implemented our project using Python, leveraging its flexibility and rich ecosystem of libraries.<br><br>
@@ -23,7 +23,8 @@ Welcome to our Vehicle Logo and License Plate Detection project!  Our goal is to
 <b>  ● OpenCV:</b> OpenCV is used for image and video processing tasks, enhancing the capabilities of our platform.
 
 <h2 id="ressources"> 📂 Ressources</h2>
-<b>  ● Dataset Used:</b> https://universe.roboflow.com/ms3b/logos-teamx/dataset/1.<br><br>
+<b>  ● Datasets Used:</b> Logos Dataset : https://universe.roboflow.com/ms3b/logos-teamx/dataset/1.<br><br>
+                          Plates Dataset : https://universe.roboflow.com/plate-detection/plate_detection-tp5h9
 <b>  ● App Demo:</b> Soon....
 
 
