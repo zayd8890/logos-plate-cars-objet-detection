@@ -1,6 +1,6 @@
 <div align="center">
   <h1 id="top" align="center"> 🚘 Vehicle Logo & License Plate Detection</h1></div>
-  <img src="results/image.JPG" width="100%", alt="Classes"></a>
+  <img src="imgs/image.JPG" width="100%", alt="Classes"></a>
 
 <h2 id="about-the-project-and-authors"> 👋 About This Project and Authors</h2>
 Welcome to our Vehicle Logo and License Plate Detection project!  Our goal is to simplify the task of recognizing vehicle logos and Moroccan license plates using cutting-edge AI technology. If you like the repo, please feel free to give it a ⭐ (top right).<br><br>This project is made by :
@@ -15,7 +15,7 @@ Welcome to our Vehicle Logo and License Plate Detection project!  Our goal is to
 <b>  ●  Advanced Models:</b> We utilize YOLOv8, a state-of-the-art object detection algorithm, to ensure accurate detection results.<br><br>
 <b>  ●  Flexible Input Options:</b> Input data in various formats, including images, videos, or live webcam streams, to suit your requirements.<br><br>
 <b>  ●  Extensive Class Recognition:</b> Explore our app to discover the extensive list of classes our models can identify, ranging from popular vehicle logos to Moroccan license plate specific designs.
-<img src="results/logos.jpg" width="80%", alt="Classes"></a>
+<img src="imgs/logos.jpg" width="80%", alt="Classes"></a>
 
 <h2 id="technologies-used"> 🛠️ Technologies Used</h2>
 <b>  ● Python:</b> We have implemented our project using Python, leveraging its flexibility and rich ecosystem of libraries.<br><br>
