@@ -14,7 +14,7 @@ Welcome to our Vehicle Logo and License Plate Detection project!  Our goal is to
 <b>  ●  Advanced Models:</b> We utilize YOLOv8, a state-of-the-art object detection algorithm, to ensure accurate detection results.<br><br>
 <b>  ●  Flexible Input Options:</b> Input data in various formats, including images, videos, or live webcam streams, to suit your requirements.<br><br>
 <b>  ●  Extensive Class Recognition:</b> Explore our app to discover the extensive list of classes our models can identify, ranging from popular vehicle logos to Moroccan license plate specific designs.
-<img src="imgs/classes.jpg", alt="Classes"></a>
+<img src="imgs/classes.jpg" width="80%", alt="Classes"></a>
 
 <h2 id="technologies-used"> 🛠️ Technologies Used</h2>
 <b>  ● Python:</b> We have implemented our project using Python, leveraging its flexibility and rich ecosystem of libraries.<br><br>
