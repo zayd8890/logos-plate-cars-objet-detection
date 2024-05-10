@@ -1,5 +1,6 @@
 <div align="center">
   <h1 id="top" align="center"> 🚘 Vehicle Logo & License Plate Detection</h1></div>
+  <a href="https://github.com/zayd8890/logos-plate-cars-objet-detection/"><img src="imgs/demo.JPG" width="35%", alt="Web App"></a>
 
 <h2 id="about-the-project-and-authors"> 👋 About This Project and Authors</h2>
 Welcome to our Vehicle Logo and License Plate Detection project!  Our goal is to simplify the task of recognizing vehicle logos and Moroccan license plates using cutting-edge AI technology. If you like the repo, please feel free to give it a ⭐ (top right).<br><br>This project is made by :
